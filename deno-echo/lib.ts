@@ -1,1 +1,1 @@
-export const nothingX = () => {};
+export const nothing = () => {};
